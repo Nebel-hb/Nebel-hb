@@ -1,4 +1,4 @@
-### Hi there 👋
+### 観覧いただきありがとうございます。
 
 ![Nebel-hb's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nebel-hb&show_icons=true&theme=vue-dark)
 
