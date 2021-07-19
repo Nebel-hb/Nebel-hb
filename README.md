@@ -20,7 +20,7 @@
 [Twitter](https://twitter.com/nebel_hb)
 
 
-# 　学習中言語
+# 学習中言語
 
 HTML/CSS
 
