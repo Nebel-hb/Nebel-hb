@@ -6,10 +6,14 @@
 # My profile
 
 演奏学科卒　ホテルレストランの接客業(3年)からのエンジニア転職を目指しています。
+
 2018年3月：大学卒
+
 2018年4月：都内ホテルレストラン就職
+
 2021年４月：退職
          DMMWEBCAMPにてプログラミング学習開始
          
 [ポートフォリオ](https://tuning-music.jp)
+
 [Twitter](https://twitter.com/nebel_hb)
