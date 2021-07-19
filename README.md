@@ -16,7 +16,12 @@
 
 2021年４月：退職、DMMWEBCAMPにてプログラミング学習開始
 
-#学習中言語
+毎日学習記録を投稿しています。
+[Twitter](https://twitter.com/nebel_hb)
+
+
+# 　学習中言語
+
 HTML/CSS
 
 JavaScript
@@ -31,7 +36,7 @@ Java
 
 （ドイツ語、フランス語）
 
-#ポートフォリオ
+# ポートフォリオ
 Tuning
 
 アマチュア音楽家のためのコミュニティ
@@ -39,8 +44,7 @@ Tuning
 募集したりグループチャットをしたり、コメントを送ったり...
 
 共に共演する相手を見つけることができます。
-[Tuning](http://tuning-music.jp/)
-[Github](https://github.com/Nebel-hb/Tuning)
 
-毎日学習記録を投稿しています。
-[Twitter](https://twitter.com/nebel_hb)
+[Tuning](http://tuning-music.jp/)
+
+[Github](https://github.com/Nebel-hb/Tuning)
