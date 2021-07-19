@@ -30,9 +30,8 @@ Ruby(Ruby on Rails)
 
 SQL
 
-Python
-
-Java
+（Python
+Java）
 
 （ドイツ語、フランス語）
 
