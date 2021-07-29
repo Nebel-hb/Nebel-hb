@@ -35,14 +35,12 @@ Java）
 （ドイツ語、フランス語）
 
 # ポートフォリオ
-Tuning
+[Tuning](http://tuning-music.jp/)
 
 アマチュア音楽家のためのコミュニティ
 
 募集したりグループチャットをしたり、コメントを送ったり...
 
 共に共演する相手を見つけることができます。
-
-[Tuning](http://tuning-music.jp/)
 
 [Github](https://github.com/Nebel-hb/Tuning)
