@@ -15,7 +15,7 @@
 
 2021年４月：退職、DMMWEBCAMPにてプログラミング学習開始
 
-2021年3月からの学習記録を毎日投稿しています。
+2021年3月からの学習記録を[Twitter](https://twitter.com/nebel_hb)にて、毎日投稿しています。
 [Twitter](https://twitter.com/nebel_hb)
 
 
