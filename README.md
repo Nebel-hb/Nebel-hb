@@ -39,11 +39,13 @@ Java）
 
 # ポートフォリオ
 [Tuning](http://tuning-music.jp/)
-(！現在停止中！)
+
 アマチュア音楽家のためのコミュニティ
 
 募集したりグループチャットをしたり、コメントを送ったり...
 
 共に共演する相手を見つけることができます。
+
+(！現在停止中！)
 
 [Github](https://github.com/Nebel-hb/Tuning)
