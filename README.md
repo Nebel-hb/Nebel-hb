@@ -4,11 +4,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nebel-hb&theme=vue-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 # My profile
 
-演奏学科卒　ホテルレストランの接客業(3年)からのエンジニア転職を目指しています。
-
-楽器演奏が得意で、メイン楽器としてチェンバロ（16世紀頃のピアノ）、他にオーケストラに所属しフルートを担当しています。
-
-
 2018年3月：大学卒
 
 2018年4月：都内ホテル就職(レストラン配属)
@@ -32,8 +27,11 @@ Ruby(Ruby on Rails)
 
 SQL
 
-（Python
-Java）
+Docker
+
+Python
+
+Java
 
 （ドイツ語、フランス語）
 
