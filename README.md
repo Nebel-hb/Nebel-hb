@@ -16,7 +16,6 @@
 
 2021年3月からの学習記録を[Twitter](https://twitter.com/nebel_hb)にて、毎日投稿しています。
 
-
 # 学習中言語
 
 HTML/CSS
@@ -43,7 +42,5 @@ Java
 募集したりグループチャットをしたり、コメントを送ったり...
 
 共に共演する相手を見つけることができます。
-
-(！現在停止中！)
 
 [Github](https://github.com/Nebel-hb/Tuning)
