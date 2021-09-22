@@ -32,7 +32,6 @@ Python
 
 Java
 
-（ドイツ語、フランス語）
 
 # ポートフォリオ
 [Tuning](http://tuning-music.jp/)
