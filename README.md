@@ -12,7 +12,7 @@
 
 2021年７月末：DMMWEBCAMP卒業
 
-2021年８月25日：内定いただきました。
+2021年８月25日：内定
 
 2021年10月1日：入社日
 
@@ -33,7 +33,6 @@ Docker
 Python
 
 Java
-
 
 # ポートフォリオ
 [Tuning](http://tuning-music.jp/)
