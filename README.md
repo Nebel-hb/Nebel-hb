@@ -1,4 +1,3 @@
-### 観覧いただきありがとうございます。
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nebel-hb&theme=vue-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Nebel-hb's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nebel-hb&show_icons=true&theme=vue-dark)
@@ -17,7 +16,7 @@
 
 2021年10月1日：入社日
 
-2021年3月からの学習記録を[Twitter](https://twitter.com/nebel_hb)にて、毎日投稿しています。
+[Twitter](https://twitter.com/nebel_hb)にて、プログラミングや音楽のことを気ままに呟きます。
 
 # 学習中言語
 
