@@ -17,7 +17,6 @@
 
 2021年10月1日：入社日
 
-[Twitter](https://twitter.com/nebel_hb)にて、プログラミングや音楽のことを気ままに呟きます。
 
 # 学習中言語
 
@@ -35,13 +34,3 @@ Python
 
 Java
 
-# ポートフォリオ
-[Tuning](http://tuning-music.jp/)
-
-アマチュア音楽家のためのコミュニティ
-
-募集したりグループチャットをしたり、コメントを送ったり...
-
-共に共演する相手を見つけることができます。
-
-[Github](https://github.com/Nebel-hb/Tuning)
